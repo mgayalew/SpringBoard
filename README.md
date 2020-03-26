@@ -7,6 +7,7 @@ This repository contains projects from Springboard Data Science track
 | Json mini project | sliderule_dsi_json_exercise.ipynb |
 |SQL mini project |        sql_project.sql |
 |API data wrangling mini project | api_data_wrangling_mini_project.ipynb |
-|Frequentist |inferential_statistics_1a-Q6.25.ipynb|
+|Frequentist_a |inferential_statistics_1a-Q6.25.ipynb|
+|Frequentist_b|inferential_statistics_1b-Q6.25|
 |Capstone project-1 forlder |Capstone_pro1 |
-
+|Bootstraping|inferential_statistics_2-Q.ipynb|
