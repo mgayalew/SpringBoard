@@ -11,3 +11,4 @@ This repository contains projects from Springboard Data Science track
 |Frequentist_b|inferential_statistics_1b-Q6.25|
 |Capstone project-1 forlder |Capstone_pro1 |
 |Bootstraping|inferential_statistics_2-Q.ipynb|
+|Bayesian inference|inferential_statistics_3-Q.ipynb|
