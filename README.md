@@ -13,3 +13,4 @@ This repository contains projects from Springboard Data Science track
 |Bootstraping|inferential_statistics_2-Q.ipynb|
 |Bayesian inference|inferential_statistics_3-Q.ipynb|
 |Linear Regression|Mini_Project_Linear_Regression.ipynb|
+|Logistic regression |Mini_Project_Logistic_Regression.ipynb|
