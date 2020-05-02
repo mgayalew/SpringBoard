@@ -15,3 +15,4 @@ This repository contains projects from Springboard Data Science track
 |Linear Regression|Mini_Project_Linear_Regression.ipynb|
 |Logistic regression |Mini_Project_Logistic_Regression.ipynb|
 |Naive Bayes|Mini_Project_Naive_Bayes.ipynb|
+|Clustering |Mini_Project_Clustering.ipynb|
