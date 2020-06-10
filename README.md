@@ -16,3 +16,4 @@ This repository contains projects from Springboard Data Science track
 |Logistic regression |Mini_Project_Logistic_Regression.ipynb|
 |Naive Bayes|Mini_Project_Naive_Bayes.ipynb|
 |Clustering |Mini_Project_Clustering.ipynb|
+|Ultimate_challenge _report|ultimate challenge report .pdf|
