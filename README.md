@@ -18,6 +18,7 @@ This repository contains projects from Springboard Data Science track
 |Clustering |Mini_Project_Clustering.ipynb|
 |Ultimate_challenge_report|ultimate challenge report .pdf|
 |Ultimate_challenge_notebook|Ultimate_challenge mini_project.ipynb|
-|TakeHome Challenge_Relax report|TakeHome Challenge_Relax Inc.pdf|
+|TakeHome Challenge_Relax_report|TakeHome Challenge_Relax Inc.pdf|
+|TakeHome_Challenge_Relax_notebook|TakeHome_Challenge_Relax.ipynb|
 
 
