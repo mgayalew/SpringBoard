@@ -16,8 +16,8 @@ This repository contains projects from Springboard Data Science track
 |Logistic regression |Mini_Project_Logistic_Regression.ipynb|
 |Naive Bayes|Mini_Project_Naive_Bayes.ipynb|
 |Clustering |Mini_Project_Clustering.ipynb|
-|Ultimate_challenge_report|TakeHome_Challenge_ Relax.pdf|
-|Ultimate_challenge_notebook|Ultimate_challenge mini_project.ipynb|
+|TakeHome_Challenge_UltimateTechnologies_report|TakeHome Challenge_ Ultimate Technologies.pdf|
+|TakeHome_Challenge_UltimateTechnologies_notebook|Ultimate_challenge mini_project.ipynb|
 |TakeHome Challenge_Relax_report|TakeHome Challenge_Relax Inc.pdf|
 |TakeHome_Challenge_Relax_notebook|TakeHome_Challenge_Relax.ipynb|
 
