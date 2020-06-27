@@ -1,6 +1,0 @@
-Summary of the project
-The objective of this project is to identify fake and real news based on its content using machine learning techniques. The result can help news agencies to identify fake news, to falsify it, broadcast the truth and play a role for society.  This saves the community from confusion, wrong decision, misinterpretation and wrong judgment coming as a result of fake news. From the news agency's perspective, unless they fight fake news, at some point they might lose their audience.
-
-The data used for this project is available on Kaggle (https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) in two .csv files for fake and true news searately.
-
-
