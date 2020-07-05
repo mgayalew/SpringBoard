@@ -5,7 +5,7 @@
 The objective of this project is to identify fake and real news based on its content using machine learning techniques. The result can help news agencies to identify fake news, to falsify it, broadcast the truth and play a role for society.  This saves the community from confusion, wrong decision, misinterpretation and wrong judgment coming as a result of fake news. From the news agency's perspective, unless they fight fake news, at some point they might lose their audience.
 The data used for this project is available on Kaggle  (https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) in two (.csv) files ; for fake and real news separately. Each dataset contains the news title, text, subject and date at which the article was posted. The fake news dataset contains 23,481 articles(rows) and the real news contains 21,417 articles(rows). 
 The approach to perform the analysis and modeling is summarized in the figure below. 
-![alt text](Capstone project_2/Data cleaning preparation and modeling steps.png)
+![alt text](https://github.com/mgayalew/SpringBoard/blob/master/Capstone%20project_2/Data%20cleaning%20preparation%20and%20modeling%20steps.png)
 
 
 ### Important files in this folder 
