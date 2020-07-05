@@ -20,5 +20,5 @@ This repository contains projects from Springboard Data Science track
 |TakeHome_Challenge_UltimateTechnologies_notebook|Ultimate_challenge mini_project.ipynb|
 |TakeHome Challenge_Relax_report|TakeHome Challenge_Relax Inc.pdf|
 |TakeHome_Challenge_Relax_notebook|TakeHome_Challenge_Relax.ipynb|
-
+|Capstone project-2|Capstone project_2(contains, reports, presentation,and code for data wrangling and stattistical test and modeling and tesing|
 
