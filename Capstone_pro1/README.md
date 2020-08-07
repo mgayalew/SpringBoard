@@ -19,5 +19,5 @@ Once the data was prepared, regression methods such as linear regression, lasso 
 |Final presentation |Final presentation.pptx|
 |Exploratory data analysis|EDA.ipynb|
 |Exploratory data analysis(in depth)|Airbnb_NYC-New.ipynb|
-|Statistical testing -code|Statistical testing.ipynb|
-|Modeling and testing-code|Price Model.ipynb|
+|Statistical testing -notebook|Statistical testing.ipynb|
+|Modeling and testing-notebook|Price Model.ipynb|
