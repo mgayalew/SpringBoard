@@ -16,6 +16,7 @@ The approach to perform the analysis and modeling is summarized in the figure be
 |Capstone project-2 milestone report-2 |Capstone project -2 milestone report-2.docx|
 |Capstone project-2 final report| Capstone project -2 final report.pdf|
 |Final presentation | Capstone project-2 final presentation.pptx|
+|News classification using BERT |news_title_classification_with_bert__google_colab.ipynb|
 
 
 
